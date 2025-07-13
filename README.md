@@ -8,6 +8,16 @@ This repository showcases a **multi-agent system** built with **Vertex AI’s Ag
 
 ---
 
+## API Endpoints
+
+Before we go into more details here are few API Endpoints for trying out the deployed agent you will need to write a script and send requests to these endpoints in order to test these out. The agent will be accessible/deployed on Vertex AI's agent engine for 1 week till 21-07-2025
+
+**[Query URL](https://asia-south1-aiplatform.googleapis.com/v1/projects/writer-agent-465704/locations/asia-south1/reasoningEngines/922956448634241024:query)**
+
+**[Stream Query URL](https://asia-south1-aiplatform.googleapis.com/v1/projects/writer-agent-465704/locations/asia-south1/reasoningEngines/922956448634241024:streamQuery?alt=sse)**
+
+---
+
 ##  Features
 
 *  **Profile Style Analysis**
