@@ -26,11 +26,9 @@ Before we go into more details here are few API Endpoints for trying out the dep
 *  **Personalized Post Generation**
   Creates LinkedIn posts from topic ideas or bullet points, mimicking the user's tone and content patterns.
 
-*  *Optional Enhancements*
 
   * Hashtag recommendations
   * Writing style rewrites (formal, casual, concise, etc.)
-  * Virality score estimation *(optional)*
 
 ---
 
