@@ -1,0 +1,15 @@
+[
+    {
+        "linkedin_url": "https://www.linkedin.com/in/komalpasumarthy",
+        "path": "Rich_Media.csv",
+        "person_tone": {
+            "tone": "enthusiastic",
+            "structure": "direct updates",
+            "themes": [
+                "learning",
+                "software development",
+                "community"
+            ]
+        }
+    }
+]
