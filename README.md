@@ -16,11 +16,9 @@ This repository showcases a **multi-agent system** built with **Vertex AI’s Ag
 *  **Personalized Post Generation**
   Creates LinkedIn posts from topic ideas or bullet points, mimicking the user's tone and content patterns.
 
-*  *Optional Enhancements*
 
   * Hashtag recommendations
   * Writing style rewrites (formal, casual, concise, etc.)
-  * Virality score estimation *(optional)*
 
 ---
 
